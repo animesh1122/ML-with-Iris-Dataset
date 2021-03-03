@@ -7,7 +7,7 @@ Four numeric features about those classes are Sepal Length, Sepal Width, Petal L
 
 Dataset is available here: https://archive.ics.uci.edu/ml/datasets/iris
 
-Predicted Attribute: Different Species of Iris plant.
+Predicted Attribute: Different Class of Iris plant.
 
 # Task
 Machine Learning Classification concepts along with data visualization. 
